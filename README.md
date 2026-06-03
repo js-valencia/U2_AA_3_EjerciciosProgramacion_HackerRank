@@ -6,7 +6,7 @@
 **Plataforma:** HackerRank
 **Lenguaje:** Java
 **Estudiante:** José Valencia
-**Fecha:** [Completar fecha de entrega]
+**Fecha:** 02/06/2026
 
 ---
 
@@ -44,19 +44,20 @@ Aplicar los principios de Programación Orientada a Objetos mediante la resoluci
 
 | Nº | Ejercicio                                  | Categoría                   |
 | -- | ------------------------------------------ | --------------------------- |
-| 1  | Java Inheritance I                         | Object Oriented Programming |
-| 2  | Java Inheritance II                        | Object Oriented Programming |
-| 3  | Java Abstract Class                        | Object Oriented Programming |
-| 4  | Java Interface                             | Object Oriented Programming |
-| 5  | Java Method Overriding                     | Object Oriented Programming |
-| 6  | Java Method Overriding 2 (Super Keyword)   | Object Oriented Programming |
-| 7  | Java Instanceof Keyword                    | Object Oriented Programming |
-| 8  | Java Iterator                              | Object Oriented Programming |
-| 9  | Java Exception Handling (Try-catch)        | Exception Handling          |
-| 10 | Java Exception Handling                    | Exception Handling          |
-| 11 | Java BigInteger                            | BigNumber                   |
-| 12 | Java BigDecimal                            | BigNumber                   |
-| 13 | [Nombre del ejercicio adicional realizado] | [Categoría]                 |
+| 1  | Java BigDecimal                            | BigNumber                   |
+| 2  | Java Primality Test                        | BigNumber                   |
+| 3  | Java BigInteger                            | BigNumber                   |
+| 4  | Java Inheritance I                         | Object Oriented Programming |
+| 5  | Java Inheritance II                        | Object Oriented Programming |
+| 6  | Java Abstract Class                        | Object Oriented Programming |
+| 7  | Java Interface                             | Object Oriented Programming |
+| 8  | Java Method Overriding                     | Object Oriented Programming |
+| 9  | Java Method Overriding 2 (Super Keyword)   | Object Oriented Programming |
+| 10 | Java Instanceof Keyword                    | Object Oriented Programming |
+| 11 | Java Iterator                              | Object Oriented Programming |
+| 12 | Java Exception Handling (Try-catch)        | Exception Handling          |
+| 13 | Java Exception Handling                    | Exception Handling          |
+
 
 ---
 
