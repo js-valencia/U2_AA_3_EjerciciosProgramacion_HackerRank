@@ -58,42 +58,58 @@
 - **Resultado:**
 <img width="1015" height="612" alt="image" src="https://github.com/user-attachments/assets/7f43ecd5-8d6b-4f53-96a6-75293db3efff" />
 
-# Java BigInteger
+# 8. Java Method Overriding
 
 - **Codigo:**
+<img width="961" height="572" alt="image" src="https://github.com/user-attachments/assets/09c3dff9-9d16-42e5-ae2f-c05c25a2546c" />
+<img width="959" height="318" alt="image" src="https://github.com/user-attachments/assets/9bcc0a5b-7ac2-4c53-872a-b89d07f0062c" />
+
+- **Resultado:**
+<img width="1024" height="553" alt="image" src="https://github.com/user-attachments/assets/3196c1fc-ab39-42bf-8c3b-4adbc59df8bf" />
+
+# 9. Java Method Overriding 2 (Super Keyword)
+
+- **Codigo:**
+<img width="940" height="694" alt="image" src="https://github.com/user-attachments/assets/64baac7b-c770-47d7-b84a-b5e22d733817" />
+
+- **Resultado:**
+<img width="1016" height="515" alt="image" src="https://github.com/user-attachments/assets/6762b755-d444-4c9e-8100-a38d4bf4c032" />
+
+# 10. Java Instanceof Keyword
+
+- **Codigo:**
+<img width="938" height="708" alt="image" src="https://github.com/user-attachments/assets/c76694f2-d041-4bc0-b74a-07f60f63f8e4" />
+<img width="948" height="319" alt="image" src="https://github.com/user-attachments/assets/891bef03-47ef-4fd5-98c2-34348bfc31e2" />
+
+- **Resultado:**
+<img width="994" height="726" alt="image" src="https://github.com/user-attachments/assets/3905c631-a9e5-4c83-bfa2-191f44795571" />
+
+# 11. Java Iterator
+
+- **Codigo:**
+<img width="945" height="628" alt="image" src="https://github.com/user-attachments/assets/91ed260d-8404-4293-a1a2-4fe94e6a0b46" />
+<img width="947" height="344" alt="image" src="https://github.com/user-attachments/assets/3658d239-d580-4b9f-8a7a-c2d63b4870e5" />
+
+- **Resultado:**
+<img width="1010" height="717" alt="image" src="https://github.com/user-attachments/assets/5f414f26-45db-4218-ac4b-a88fec879c82" />
+
+
+# 12. Java Exception Handling (Try-catch)
+
+- **Codigo:**
+<img width="952" height="474" alt="image" src="https://github.com/user-attachments/assets/c5a6a5e1-ef5c-4d68-ad83-e9f0e29da339" />
+
+- **Resultado:**
+<img width="1025" height="683" alt="image" src="https://github.com/user-attachments/assets/3a950812-32e6-481f-9cbc-a38baa2e9e7b" />
+
+# 13. Java Exception Handling
+
+- **Codigo:**
+<img width="949" height="706" alt="image" src="https://github.com/user-attachments/assets/33c9d9d6-f847-4720-9dc6-712cff90cd30" />
 
 - **Resultado:**
 
-# Java BigInteger
-
-- **Codigo:**
-
-- **Resultado:**
-
-# Java BigInteger
-
-- **Codigo:**
-
-- **Resultado:**
-
-# Java BigInteger
-
-- **Codigo:**
-
-- **Resultado:**
-
-# Java BigInteger
-
-- **Codigo:**
-
-- **Resultado:**
-
-# Java BigInteger
-
-- **Codigo:**
-
-- **Resultado:**
-
+<img width="1019" height="731" alt="image" src="https://github.com/user-attachments/assets/a0d2bba4-f3a1-4eb6-93f7-76f63751643d" />
 
 
 
